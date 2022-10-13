@@ -27,7 +27,7 @@ This repository contains one jupyter notebook with the code pertaining to the an
 
 ## Results<a name="results"></a>
 
-Overall, it appears that the data scientist career path should not hinder my ability to work remotely in the future. In fact, the results of my analysis show that the data scientst career path is very amiable to remote work! A further breakdown to the results can be found here.
+Overall, it appears that the data scientist career path should not hinder my ability to work remotely in the future. In fact, the results of my analysis show that the data scientst career path is very amiable to remote work! A further breakdown to the results can be found [here](https://jdritenour.github.io/RemoteRatios-Udacity/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
