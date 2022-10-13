@@ -14,7 +14,8 @@ The Kaggle dataset divides the records into 3 categories of remote work.
 - Full Remote (more than 80%)
 
 <p align="center">
-<img width="800" alt="SalaryComparison" src="https://user-images.githubusercontent.com/78283026/195484670-865df1ef-1ed9-4a3d-89d4-55cbd2969d8b.png"></br>
+<img width="800" alt="SalaryComparison" src="https://user-images.githubusercontent.com/78283026/195484670-865df1ef-1ed9-4a3d-89d4-55cbd2969d8b.png">
+
 Figure 1 - Remote Work Salary Comparison
 </p>
 
@@ -33,7 +34,8 @@ The kaggle dataset breaks experience down into 4 levels:
 - EX - Executive Level/Director
 
 <p align="center">
-<img width="800" alt="ExperienceLevel" src="https://user-images.githubusercontent.com/78283026/195485941-669125d9-4b74-4442-a52e-161056b18f83.png"></br>
+<img width="800" alt="ExperienceLevel" src="https://user-images.githubusercontent.com/78283026/195485941-669125d9-4b74-4442-a52e-161056b18f83.png">
+
 Figure 2 - Remote Work based on Experience Level
 </p>
 
@@ -50,7 +52,8 @@ L - >250 employees
 
 <p align="center">
 <img width="800" alt="CompanySize" src="https://user-images.githubusercontent.com/78283026/195487610-4af97199-acb6-4500-bbc6-b65e03ef9953.png">
-</br> Figure 3 - Remote Work based on Company Size
+
+Figure 3 - Remote Work based on Company Size
 </p>
 
 As can be seen in Figure 3, more than 50% of data scientists worked fully remotely at all sizes of companies. The small and large companies mirrored each other across all three remote categories. However, medium sized companies were significantly less likely to have employees working partially remote with only 6%. Comparatively, large and small companies have 30% and 22% of employees working partially remote respectively.
