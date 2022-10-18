@@ -1,5 +1,7 @@
 # I Want to Work From Home!!!
 
+![image](https://user-images.githubusercontent.com/78283026/196307507-9e738329-d533-4707-adda-740380295297.jpg)
+
 I graduated with my bachelors degree in spring of 2019. Since the Coronavirus pandemic shut down offices across the country less than a year later, I have spent most of my career working remotely. Therefore, the anticipated return to the office, often referred to as the “return to normal”, actually isn’t normal to me at all. The ability to continue to work remotely is very important to me. Therefore, I set out to see what the data says about how remote work impacts data science salaries, if the ability to work remotely is influenced by experience level, or if the ability to work remotely is influenced by company size.
 
 To explore these questions, I found a data set on Kaggle entitled ‘Data Science Job Salaries’. This data set contained 607 records and 19 attributes. For this analysis we will focus on the following attributes: experience_level, salary_in_usd, remote_ratio, and company_size.
